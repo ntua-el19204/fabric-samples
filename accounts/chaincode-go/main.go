@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"example.com/fabric-samples/accounts/chaincode-go/chaincode"
+	"github.com/ntua-el19204/fabric-samples/accounts/chaincode-go/chaincode"
 
 	"github.com/hyperledger/fabric-contract-api-go/v2/contractapi"
 )

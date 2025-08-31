@@ -1,4 +1,4 @@
-module example.com/fabric-samples/accounts/chaincode-go
+module github.com/ntua-el19204/fabric-samples/accounts/chaincode-go
 
 go 1.24.4
 
